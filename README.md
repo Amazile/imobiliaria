@@ -8,7 +8,10 @@ Em uma imobiliária ficitícia, o diretor precisa ter respostas para as seguinte
 - Hoje, quantos registros existem na nossa carteira de imóveis?  
 - Quais são os tipos de imóveis encontrados na carteira imobiliária?
 - Quais são os cinco (5) principais tipos de imóveis encontrados e respectivas quantidades?  
-- Quais são os cinco (5) bairros com mais imóveis para locação na imobiliária?  
+- Quais são os cinco (5) bairros com mais imóveis para locação na imobiliária? 
+- Quantos imóveis apresentam no mínimo 4 quartos e aluguel menor que R$2.000,00?
+- Quantos registros de apartamentos?
+- Qual o registro total de casa + casa de condomínio + casa de vila?   
 
 Além dos questionamentos, o diretor da imobiliária solicitou a analista de dados que criasse:  
 - Na tabela uma coluna com valor bruto de aluguel que incluísse a soma do valor do aluguel + condomínio + IPTU;
