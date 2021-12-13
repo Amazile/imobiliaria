@@ -17,8 +17,6 @@ Além dos questionamentos, o diretor da imobiliária solicitou a analista de dad
 
 **Fonte dos dados** -  Curso da Alura: Python Pandas, tratando e analisando dados. 
 
-**Entrega das informações solicitadas**  
-
 **Referências**    
 - Alura Cursos Online de Tecnologia https://www.alura.com.br/  
 - Sebrae https://www.sebrae.com.br/sites/PortalSebrae/ideias/como-montar-uma-imobiliaria,30c87a51b9105410VgnVCM1000003b74010aRCRD#apresentacao-de-negocio 
