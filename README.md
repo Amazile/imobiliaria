@@ -18,6 +18,7 @@ Além dos questionamentos, o diretor da imobiliária solicitou a analista de dad
 **Fonte dos dados** -  Curso da Alura: Python Pandas, tratando e analisando dados. 
 
 **Referências**    
+- Imagem: https://www.freepik.com/free-photo/villa-house-model-key-drawing-retro-desktop-real-estate-sale-concept_1168102.htm  
 - Alura Cursos Online de Tecnologia https://www.alura.com.br/  
 - Sebrae https://www.sebrae.com.br/sites/PortalSebrae/ideias/como-montar-uma-imobiliaria,30c87a51b9105410VgnVCM1000003b74010aRCRD#apresentacao-de-negocio 
 - InfoMoney - O novo mercado imobiliário  https://lp.infomoney.com.br/panorama-novo-mercado-imobiliario  
