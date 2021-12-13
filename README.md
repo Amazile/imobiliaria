@@ -20,6 +20,8 @@ Além dos questionamentos, o diretor da imobiliária solicitou a analista de dad
 
 **Fonte dos dados** -  Curso da Alura: Python Pandas, tratando e analisando dados. 
 
+**Observação:** Assumiu-se que IPTU e condomínio podem ter valor=zero.  
+
 **Referências**    
 - Imagem: https://www.freepik.com/free-photo/villa-house-model-key-drawing-retro-desktop-real-estate-sale-concept_1168102.htm  
 - Alura Cursos Online de Tecnologia https://www.alura.com.br/  
