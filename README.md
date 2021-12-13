@@ -15,7 +15,9 @@ Além dos questionamentos, o diretor da imobiliária solicitou a analista de dad
 - Uma tabela com os seguintes tipos de imóveis: casa / casa de condomínio / casa de vila; e 
 - Outra tabela com os apartamentos disponíveis.  
 
-**Fonte dos dados** -  Curso da Alura: Python Pandas, tratando e analisando dados.   
+**Fonte dos dados** -  Curso da Alura: Python Pandas, tratando e analisando dados. 
+
+**Entrega das informações**  
 
 **Referências**    
 - Alura Cursos Online de Tecnologia https://www.alura.com.br/  
